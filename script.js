@@ -2,7 +2,8 @@
 const pages = {
     inicio: `
         <div class="hero">
-            <div class="hero-icon">💀</div>
+            <div class="hero-icon">
+            <img src="logo.calavera.jpeg" alt="Logo"</div>
             <h1>Carrera de Inteligencia Artificial</h1>
             <p style="font-size: 1.25rem;">Descubre el futuro de la tecnología</p>
         </div>
@@ -520,4 +521,5 @@ document.addEventListener('DOMContentLoaded', () => {
             loadPage(page);
         });
     });
+
 });
