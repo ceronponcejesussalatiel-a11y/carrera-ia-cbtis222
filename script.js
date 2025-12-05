@@ -2,8 +2,9 @@
 const pages = {
     inicio: `
         <div class="hero">
-            <div class="hero-icon">💀</div>
+            <div class="hero-icon">🤖</div>
             <h1>Carrera de Inteligencia Artificial</h1>
+            <img.src = "logo-calavera.jpeg";
             <p style="font-size: 1.25rem;">Descubre el futuro de la tecnología</p>
         </div>
         
@@ -521,3 +522,4 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     });
 });
+
