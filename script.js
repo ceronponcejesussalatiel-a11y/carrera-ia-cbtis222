@@ -2,7 +2,7 @@
 const pages = {
     inicio: `
         <div class="hero">
-            <div class="hero-icon">🤖</div>
+           <img src="logo-calavera.jpeg" alt="Logo CBTIS 222" class="logo-image">
             <h1>Carrera de Inteligencia Artificial</h1>
             <img.src = "logo-calavera.jpeg";
             <p style="font-size: 1.25rem;">Descubre el futuro de la tecnología</p>
@@ -522,4 +522,5 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     });
 });
+
 
