@@ -1,11 +1,11 @@
-// Contenido de las páginas
+
 const pages = {
     inicio: `
     <div class="hero">
     <img src="logo-calavera.jpeg" ALT="Logo CBTIS222" class="logo-image">
     <h1>Carrera de Inteligencia Artificial</h1>
     <img.src = "logo-calavera.jpeg";
-    <p style="Font-size: 1.25rem;">Descubre el futuro</p>
+    <p style="Font-size: 1.25rem;">Ceron Ponce Jesus Salatiel 5AvP</p>
     </div>
         <div class="grid grid-2">
             <div class="card">
@@ -521,6 +521,7 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     });
 });
+
 
 
 
