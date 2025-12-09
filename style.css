@@ -42,8 +42,8 @@ body {
 }
 
 .logo-image {
-    width: 50px;
-    height: 50px;
+    width: 80px;
+    height: 80px;
     object-fit: contain;
 }
 
@@ -122,8 +122,8 @@ body {
 }
 
 .hero-logo {
-    width: 120px;
-    height: 120px;
+    width: 180px;
+    height: 180px;
     object-fit: contain;
     margin-bottom: 1rem;
 }
@@ -415,13 +415,13 @@ tbody tr:hover {
     }
     
     .logo-image {
-        width: 40px;
-        height: 40px;
+        width: 60px;
+        height: 60px;
     }
     
     .hero-logo {
-        width: 80px;
-        height: 80px;
+        width: 120px;
+        height: 120px;
     }
     
     .hero h1 {
